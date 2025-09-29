@@ -1,8 +1,7 @@
-
 nav {
   background-color: steelblue;
   padding: 10px;
-} 
+}
 
 nav a {
   color: white;
@@ -10,11 +9,10 @@ nav a {
   padding: 10px;
 }
 
-main {
-  max-width: 840px;
-  margin: 0 auto;
+h1 {
+  color: steelblue;
+  padding: .5rem;
 }
-
 
 main img {
   width: 150px;
@@ -26,7 +24,6 @@ main img {
 p {
   padding: 0;
 }
-
 
 aside {
   width: 20rem;
